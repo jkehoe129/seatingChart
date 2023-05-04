@@ -1,23 +1,13 @@
 [
   {
-    "Name": "Mona Breton",
-    "Section": "#FFCCCC",
-    "Seat": "7-B"
+    "Name": "Adam Alexander",
+    "Section": "#00B0F0",
+    "Seat": "18-A"
   },
   {
-    "Name": "Karen Bulloch",
-    "Section": "#FFCCCC",
-    "Seat": "8-B"
-  },
-  {
-    "Name": "Melissa Meyers",
-    "Section": "#FFCCCC",
-    "Seat": "8-D"
-  },
-  {
-    "Name": "Paul Kean",
-    "Section": "#FF33CC",
-    "Seat": "13-A"
+    "Name": "Chris Watson",
+    "Section": "#00B0F0",
+    "Seat": "19-C"
   },
   {
     "Name": "Kevin Mason",
@@ -25,9 +15,64 @@
     "Seat": "15-A"
   },
   {
+    "Name": "Chris Yancich",
+    "Section": "#00FF00",
+    "Seat": "47-A"
+  },
+  {
+    "Name": "Frank Grant",
+    "Section": "#00FF00",
+    "Seat": "26-A"
+  },
+  {
+    "Name": "Joe Sher",
+    "Section": "#00FF00",
+    "Seat": "48-C"
+  },
+  {
+    "Name": "Mike Ritchie",
+    "Section": "#00FF00",
+    "Seat": "48-A"
+  },
+  {
+    "Name": "Nicole Stepanek",
+    "Section": "#00FF00",
+    "Seat": "47-C"
+  },
+  {
+    "Name": "Rico Martell",
+    "Section": "#00FF00",
+    "Seat": "46-B"
+  },
+  {
+    "Name": "Sandy Downer",
+    "Section": "#00FF00",
+    "Seat": "48-B"
+  },
+  {
+    "Name": "Thomas Hector",
+    "Section": "#00FF00",
+    "Seat": "47-B"
+  },
+  {
+    "Name": "Drew Philipp",
+    "Section": "#00FFFF",
+    "Seat": "45-A"
+  },
+  {
+    "Name": "Joe Santos",
+    "Section": "#00FFFF",
+    "Seat": "45-C"
+  },
+  {
     "Name": "Pat Nysten",
     "Section": "#00FFFF",
     "Seat": "15-B"
+  },
+  {
+    "Name": "Patti Donadio",
+    "Section": "#00FFFF",
+    "Seat": "45-B"
   },
   {
     "Name": "Stephen McGovern",
@@ -40,29 +85,14 @@
     "Seat": "16-A"
   },
   {
-    "Name": "Adam Alexander",
-    "Section": "#00B0F0",
-    "Seat": "18-A"
-  },
-  {
-    "Name": "Chris Watson",
-    "Section": "#00B0F0",
-    "Seat": "19-C"
-  },
-  {
-    "Name": "Frank Grant",
-    "Section": "#00FF00",
-    "Seat": "26-A"
-  },
-  {
-    "Name": "Donna Taylor",
-    "Section": "#FFC000",
-    "Seat": "38-A"
-  },
-  {
-    "Name": "Mike Butts",
+    "Name": "Dan Riordan",
     "Section": "#FF33CC",
-    "Seat": "41-B"
+    "Seat": "42-A"
+  },
+  {
+    "Name": "Dave White",
+    "Section": "#FF33CC",
+    "Seat": "43-A"
   },
   {
     "Name": "Jill Ducharme",
@@ -70,9 +100,19 @@
     "Seat": "41-C"
   },
   {
-    "Name": "Dan Riordan",
+    "Name": "Mike Butts",
     "Section": "#FF33CC",
-    "Seat": "42-A"
+    "Seat": "41-B"
+  },
+  {
+    "Name": "Paul Kean",
+    "Section": "#FF33CC",
+    "Seat": "13-A"
+  },
+  {
+    "Name": "Russell Edmondson",
+    "Section": "#FF33CC",
+    "Seat": "43-C"
   },
   {
     "Name": "Saba Bakhshi",
@@ -85,14 +125,9 @@
     "Seat": "42-C"
   },
   {
-    "Name": "Dave White",
-    "Section": "#FF33CC",
-    "Seat": "43-A"
-  },
-  {
-    "Name": "Russell Edmondson",
-    "Section": "#FF33CC",
-    "Seat": "43-C"
+    "Name": "Donna Taylor",
+    "Section": "#FFC000",
+    "Seat": "38-A"
   },
   {
     "Name": "Theresa Lannon",
@@ -100,53 +135,18 @@
     "Seat": "44-A"
   },
   {
-    "Name": "Drew Philipp",
-    "Section": "#00FFFF",
-    "Seat": "45-A"
+    "Name": "Karen Bulloch",
+    "Section": "#FFCCCC",
+    "Seat": "8-B"
   },
   {
-    "Name": "Patti Donadio",
-    "Section": "#00FFFF",
-    "Seat": "45-B"
+    "Name": "Melissa Meyers",
+    "Section": "#FFCCCC",
+    "Seat": "8-D"
   },
   {
-    "Name": "Joe Santos",
-    "Section": "#00FFFF",
-    "Seat": "45-C"
-  },
-  {
-    "Name": "Rico Martell",
-    "Section": "#00FF00",
-    "Seat": "46-B"
-  },
-  {
-    "Name": "Chris Yancich",
-    "Section": "#00FF00",
-    "Seat": "47-A"
-  },
-  {
-    "Name": "Thomas Hector",
-    "Section": "#00FF00",
-    "Seat": "47-B"
-  },
-  {
-    "Name": "Nicole Stepanek",
-    "Section": "#00FF00",
-    "Seat": "47-C"
-  },
-  {
-    "Name": "Mike Ritchie",
-    "Section": "#00FF00",
-    "Seat": "48-A"
-  },
-  {
-    "Name": "Sandy Downer",
-    "Section": "#00FF00",
-    "Seat": "48-B"
-  },
-  {
-    "Name": "Joe Sher",
-    "Section": "#00FF00",
-    "Seat": "48-C"
+    "Name": "Mona Breton",
+    "Section": "#FFCCCC",
+    "Seat": "7-A"
   }
  ]
