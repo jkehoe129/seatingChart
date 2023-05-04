@@ -1,4 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
+  setTimeout(function () {
+    location.reload();
+  }, 5 * 60 * 1000);
+  
   fetch('data.json')
     .then(response => response.json())
     .then(data => {
@@ -27,9 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
         row.appendChild(nameCell);
 
         const seatCell = document.createElement('td');
-        
         seatCell.textContent = person.Seat;
-        
         seatCell.style.backgroundColor = person.Section;
         row.appendChild(seatCell);
 
